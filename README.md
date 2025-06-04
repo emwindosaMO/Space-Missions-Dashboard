@@ -31,8 +31,7 @@ It was created as my **final project** for a Data Analytics training program.
 ---
 
 ## 🔗 View the Dashboard
-
-\[Insert link to your published Power BI report or screenshots/GIFs if not publicly hosted]![Space Missions Screenshot](https://github.com/user-attachments/assets/1d4b4db3-0e53-4edd-b672-7c2cbf2f3671)
+(https://github.com/user-attachments/assets/1d4b4db3-0e53-4edd-b672-7c2cbf2f3671)
 
 
 ---
@@ -47,10 +46,7 @@ I’m sharing it here in hopes it can help others explore, learn, or even get in
 
 ## 📎 Connect With Me
 
-* [LinkedIn](https://linkedin.com/in/your-profile)
+* [LinkedIn](www.linkedin.com/in/emwindosa-osarenmwinda-52428a14a)
 * [Portfolio](https://your-portfolio-link.com)
-* [Email](mailto:your-email@example.com)
+* [Email](osarenmwindame@gmail.com)
 
----
-
-Would you like me to format this into a real `README.md` for copy/paste, or help create a preview image for the repo?
