@@ -31,7 +31,7 @@ It was created as my **final project** for a Data Analytics training program.
 ---
 
 ## 🔗 View the Dashboard
-(https://github.com/user-attachments/assets/1d4b4db3-0e53-4edd-b672-7c2cbf2f3671)
+[Space_Mission_Dashboard](https://github.com/user-attachments/assets/1d4b4db3-0e53-4edd-b672-7c2cbf2f3671)
 
 
 ---
