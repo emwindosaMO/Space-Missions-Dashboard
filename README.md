@@ -31,7 +31,8 @@ It was created as my **final project** for a Data Analytics training program.
 ---
 
 ## 🔗 View the Dashboard
-[Space_Mission_Dashboard](https://github.com/user-attachments/assets/1d4b4db3-0e53-4edd-b672-7c2cbf2f3671)
+[Space_Mission_Dashboard] <img width="993" height="558" alt="Space Missions Screenshot" src="https://github.com/user-attachments/assets/9776cb25-b626-4072-8c1d-f309d15c017f" />
+
 
 
 ---
